@@ -1,0 +1,1 @@
+MNIST (Modified National Institute of Standards and Technology) is a dataset of handwritten digits commonly used for training and testing machine learning models, particularly in the field of image classification. An Artificial Neural Network (ANN) can be used to classify these digits (0-9) by training on the MNIST dataset.
